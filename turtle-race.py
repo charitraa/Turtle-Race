@@ -1,5 +1,4 @@
 from turtle import *
-import turtle
 from random import randint
 
 speed(0)
